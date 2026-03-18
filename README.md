@@ -1,7 +1,7 @@
 # my-first-project
 My beginner projects in HTML,Javascript
 ##Features
-- Simple webpage
+- Simple form
 - Beginner friendly
 
  
